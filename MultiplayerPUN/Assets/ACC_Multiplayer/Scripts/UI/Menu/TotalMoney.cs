@@ -25,6 +25,6 @@ public class TotalMoney : MonoBehaviour {
 
 	void SetMoney (int money)
 	{
-		TotalMoneyText.text = string.Format("${0}", money);
+		TotalMoneyText.text = string.Format("{0}", money);
 	}
 }

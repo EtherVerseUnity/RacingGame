@@ -5,7 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/ACC_Multiplayer/Scenes/AttentionScene.unity
     guid: 777c336ab6dc06b4da54be0ee9435aa4
   - enabled: 1
